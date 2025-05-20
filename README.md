@@ -36,7 +36,7 @@ Techniques Used
 - Sensor types: PIR, Magnetic, Pressure, Flush, Electric
 - Activities: Sleeping, Breakfast, Lunch, Snack, TV/Spare_Time, etc.
 
-> Dataset Source: [CASAS Datasets](http://casas.wsu.edu/datasets/)
+
 
 Results
 ----------
